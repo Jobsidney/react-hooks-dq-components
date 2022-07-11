@@ -7,7 +7,7 @@ import AlbumList from "./AlbumList";
 
 
 function MainContent() {
-  return <main>
+  return <main className="MainCont">
     <div><TopMenu/></div>
     <div><GenrePicker/></div>
     <div><AlbumList/></div>

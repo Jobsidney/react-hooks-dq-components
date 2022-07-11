@@ -343,6 +343,10 @@ main {
   display: flex;
   flex-direction: row;
 }
+.MainCont{
+  padding-top: 0;
+  margin-top: 0;
+}
 
 .genre-picker span:hover {
   color: var(--white);
