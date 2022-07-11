@@ -339,6 +339,10 @@ main {
   cursor: pointer;
   transition: color 0.2s;
 }
+.navbar{
+  display: flex;
+  flex-direction: row;
+}
 
 .genre-picker span:hover {
   color: var(--white);
